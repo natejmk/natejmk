@@ -1,12 +1,26 @@
 # Jongmin Kim (김종민)
 
-### Data & Applied AI Engineer
+### Applied AI Engineer / Consultant @ EY
 
 I build data + AI products end-to-end — from unstructured data pipelines to LLM-powered systems running in production — and I care most when that work connects to real business impact.
 
 - Started in **NLP data analysis**, expanded into **data engineering** and **AI agent development**.
 - Comfortable across the whole stack: data collection → ETL → analysis → datamart → product.
-- Currently deployed as a **Forward Deployed Engineer (FDE)** at a public institution, building production AI agents.
+- Now at **EY** as an **Applied AI Engineer / Consultant**, bringing production AI to enterprise clients.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A2%85%EB%AF%BC-%EA%B9%80-435048219/)
+
+---
+
+### Experience
+
+| Period | Role | Company |
+|---|---|---|
+| 2026.09 – Present | Applied AI Engineer / Consultant | **EY** |
+| 2023.09 – 2026.08 | Data Product & AI Agent Engineer | **VAIV Company** |
+| 2021.09 – 2023.09 | Data Analyst & Engineer | **VAIV Company** |
+
+Education: Yonsei University
 
 ---
 
@@ -41,7 +55,7 @@ I build data + AI products end-to-end — from unstructured data pipelines to LL
 
 ---
 
-### Featured Projects
+### Featured Projects (VAIV Company)
 
 **Multimodal LLM Influencer Analysis & Data Productization** — *WHOTAG*
 Pipeline that analyzes global influencers (image / video / caption) with multimodal LLMs and turns the results into data products.
@@ -75,7 +89,7 @@ The in-house engine that powers B2B social-data reports: ETL, document managemen
 
 ### Currently
 
-- Building production AI agents as an FDE at a public institution.
+- Applied AI Engineer / Consultant at EY.
 - Interested in agent orchestration, retrieval, and data infrastructure that holds up at scale.
 
 ### Writing
